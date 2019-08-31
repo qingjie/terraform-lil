@@ -13,3 +13,5 @@ resource "aws_vpc" "environment-example-two" {
   }
 }
 ```
+
+![](img/vpc.png)
