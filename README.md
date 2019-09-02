@@ -24,6 +24,10 @@ config `aws configure ` first
 #### terraform import
 #### terraform force-unlock
 #### terraform refresh
+#### terraform taint aws_subnet.subnet1
+#### terraform untaint aws_subnet.subnet1
+
+
 ---
 #### brew install GraphViz
 add ```export LDFLAGS="-L/usr/local/opt/libffi/lib"``` to  ~/.bash_profile 
