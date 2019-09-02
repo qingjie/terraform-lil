@@ -1,4 +1,4 @@
-
+connections.tf
 ```
 provider "aws" {
   region = "us-east-2"
@@ -6,6 +6,7 @@ provider "aws" {
 ```
 
 
+resource.tf
 ```
 resource "aws_vpc" "environment-example-two" {
   cidr_block = "10.0.0.0/16"
