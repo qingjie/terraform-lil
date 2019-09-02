@@ -22,4 +22,4 @@ resource "aws_s3_bucket" "example" {
 ```
 
 
-![](img/s3.png)
+![](img/S3.png)
