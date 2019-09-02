@@ -11,8 +11,6 @@ config `aws configure ` first
 * [variable](/doc/variable/readme.md)
 * [s3](/doc/s3/readme.md)
 * [caffee_type](/doc/caffee_type/readme.md)
-* [create vpc](/doc/vpc/readme.md)
-* [create vpc](/doc/vpc/readme.md)
 
 ---
 #### terraform init
