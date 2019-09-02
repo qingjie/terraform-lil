@@ -8,7 +8,7 @@ config `aws configure ` first
 * [subnet-securitygroup](/doc/subnet-securitygroup/readme.md)
 * [vm](/doc/vm/readme.md)
 * [workspace](/doc/workspace/readme.md)
-* [create vpc](/doc/vpc/readme.md)
+* [variable](/doc/variable/readme.md)
 * [create vpc](/doc/vpc/readme.md)
 * [create vpc](/doc/vpc/readme.md)
 * [create vpc](/doc/vpc/readme.md)
