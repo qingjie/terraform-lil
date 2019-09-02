@@ -9,7 +9,7 @@ config `aws configure ` first
 * [vm](/doc/vm/readme.md)
 * [workspace](/doc/workspace/readme.md)
 * [variable](/doc/variable/readme.md)
-* [s3](/doc/vpc/readme.md)
+* [s3](/doc/s3/readme.md)
 * [create vpc](/doc/vpc/readme.md)
 * [create vpc](/doc/vpc/readme.md)
 * [create vpc](/doc/vpc/readme.md)
