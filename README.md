@@ -23,6 +23,7 @@ config `aws configure ` first
 #### terraform output
 #### terraform import
 #### terraform force-unlock
+#### terraform refresh
 ---
 #### brew install GraphViz
 add ```export LDFLAGS="-L/usr/local/opt/libffi/lib"``` to  ~/.bash_profile 
