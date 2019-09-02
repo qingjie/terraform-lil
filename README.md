@@ -20,7 +20,7 @@ config `aws configure ` first
 #### terraform fmt
 #### terraform destroy
 #### terraform state (terraform state show aws_instance.secondserver)
- 
+#### terraform output
 ---
 #### brew install GraphViz
 add ```export LDFLAGS="-L/usr/local/opt/libffi/lib"``` to  ~/.bash_profile 
