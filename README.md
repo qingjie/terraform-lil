@@ -1,12 +1,6 @@
 # terraform-lil
 Leaning course work
 
-#### terraform init
-#### terraform validate
-#### terraform fmt
-#### terraform destroy
-#### terraform state (terraform state show aws_instance.secondserver)
- 
 config `aws configure ` first
 
 
@@ -20,7 +14,13 @@ config `aws configure ` first
 * [create vpc](/doc/vpc/readme.md)
 * [create vpc](/doc/vpc/readme.md)
 
-
+---
+#### terraform init
+#### terraform validate
+#### terraform fmt
+#### terraform destroy
+#### terraform state (terraform state show aws_instance.secondserver)
+ 
 ---
 #### brew install GraphViz
 add ```export LDFLAGS="-L/usr/local/opt/libffi/lib"``` to  ~/.bash_profile 
