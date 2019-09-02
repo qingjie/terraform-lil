@@ -1,7 +1,7 @@
 
 
 
-![](output-variable.png)
-![](input-variable.png)
-![](input-variable-test.png)
+![](img/output-variable.png)
+![](img/input-variable.png)
+![](img/input-variable-test.png)
 
