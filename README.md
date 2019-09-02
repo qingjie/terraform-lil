@@ -13,7 +13,7 @@ config `aws configure ` first
 * [create vpc](/doc/vpc/readme.md)
 * [subnet-securitygroup](/doc/subnet-securitygroup/readme.md)
 * [vm](/doc/vm/readme.md)
-* [create vpc](/doc/vpc/readme.md)
+* [workspace](/doc/workspace/readme.md)
 * [create vpc](/doc/vpc/readme.md)
 * [create vpc](/doc/vpc/readme.md)
 * [create vpc](/doc/vpc/readme.md)
