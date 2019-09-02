@@ -10,7 +10,7 @@ config `aws configure ` first
 * [workspace](/doc/workspace/readme.md)
 * [variable](/doc/variable/readme.md)
 * [s3](/doc/s3/readme.md)
-* [create vpc](/doc/vpc/readme.md)
+* [caffee_type](/doc/caffee_type/readme.md)
 * [create vpc](/doc/vpc/readme.md)
 * [create vpc](/doc/vpc/readme.md)
 
