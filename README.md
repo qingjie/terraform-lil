@@ -5,7 +5,7 @@ Leaning course work
 #### terraform validate
 #### terraform fmt
 #### terraform destroy
-#### terraform state
+#### terraform state (terraform state show aws_instance.secondserver)
 ---
 config `aws configure ` first
 
