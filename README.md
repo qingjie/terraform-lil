@@ -25,5 +25,5 @@ config `aws configure ` first
 #### brew install GraphViz
 add ```export LDFLAGS="-L/usr/local/opt/libffi/lib"``` to  ~/.bash_profile 
 #### terraform graph | dot -Tsvg > graph.svg
-
+![](graph.svg)
 ---
