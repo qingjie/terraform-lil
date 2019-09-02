@@ -1,6 +1,11 @@
 # terraform-lil
 Leaning course work
 
+### terraform init
+### terraform validate
+### terraform fmt
+### terraform destroy
+
 config `aws configure ` first
 
 
