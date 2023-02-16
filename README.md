@@ -34,3 +34,13 @@ add ```export LDFLAGS="-L/usr/local/opt/libffi/lib"``` to  ~/.bash_profile
 ---
 
 add ```export TF_LOG=TRACE``` into .bash_profle to debug
+
+---
+```
+#1-way
+terraform plan
+terraform apply
+#2-way
+terraform plan -out v1plan.out
+terraform apply v1plan.out
+```
